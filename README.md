@@ -1,2 +1,3 @@
 # hello-github
-你好GitHub
+hi github
+I am legengen
